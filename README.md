@@ -29,3 +29,18 @@ Author
 • Student Name: THABELO BRILLIANT RAMOVHA
 • Student Number: ST10526506
 • Course: WEDES020w Web Development (PoE Part 1)
+
+## Part 1 Feedback Corrections
+* Fixed missing second proposal and added sitemap/wireframe assets.
+* Organized repository structure and initialized CSS/JS files.
+
+## Responsive Testing Evidence
+
+### Desktop View (1024px)
+![Desktop View](images/desktop.png)
+
+### Tablet View (768px)
+![Tablet View](images/tablet.png)
+
+### Mobile View (375px)
+![Mobile View](images/mobile.png)
